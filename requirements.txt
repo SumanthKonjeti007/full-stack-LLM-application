@@ -5,3 +5,6 @@ openai
 pinecone-client
 flask-cors
 python-dotenv
+sentence-transformers
+torch
+transformers
